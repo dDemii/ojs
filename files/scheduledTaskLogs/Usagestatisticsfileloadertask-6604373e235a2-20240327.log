@@ -1,0 +1,5 @@
+[2024-03-27 15:11:58] http://localhost:8000
+[2024-03-27 15:11:58] [Notice] Task process started.
+[2024-03-27 15:11:58] [Notice] File E:\ojs\ojs-3.4.0-5\files/usageStats/processing/usage_events_20240326.log was moved to dispatch folder.
+[2024-03-27 15:11:58] [Notice] The background jobs that will process the log files and store the statistics data have been dispatched.
+[2024-03-27 15:11:58] [Notice] Task process stopped.
